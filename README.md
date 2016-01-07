@@ -1,2 +1,4 @@
-# DesignerLoveCoding
-设计师自学编程历程
+# Designer Love Coding—设计师自学编程历程
+
+2016.01.07
+收集整理对于设计师有用的编程软件技巧等教程
